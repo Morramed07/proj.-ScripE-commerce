@@ -1,1 +1,2 @@
-# proj.-ScripE-commerce
+# Projeto lógico para SCHEMA DE BANCO DE DADOS de um E-ccomerce
+Este projeto foi proposto pelo bootcamp da suzano - análise de dados com Power BI, onde aborda a prática com a linguagem SQL para criação de esquema de um banco de dados vindo do modelo conceitual de e-commerce, nele foram feitos melhorias no modelo conceitual como também a inserção de dados nas tabelas e a criação de querys para teste de conhecimento, essas querys tinha alguns pré-requisitos, como por exemplo, precisaria ter uma cláusla GROUP BY, ORDER BY E HAVING.
